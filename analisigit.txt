@@ -1,0 +1,20 @@
+Git adalah singkatan dari Group Inclusive Tour. Git merupakan version control system yang gratis dan juga open source. Git dirancang untuk menangani segala project baik itu project besar atau project sederhana.
+
+GIT memiliki kelebihan dan kelemahan
+Kelbihan GIT :
+○        Dapat mengelola versi kode sumber dengan mudah dan efisien.
+
+○        Dapat melakukan branching dan merging dengan mudah dan aman.
+
+○        Dapat melacak perubahan dan siapa yang membuat perubahan pada source code.
+
+○        Memiliki performa yang cepat dan stabil dalam pengelolaan kode sumber yang besar.
+
+Kelemahan GIT :
+○        Memiliki fitur yang kompleks dan terkadang membingungkan bagi pengguna yang kurang berpengalaman.
+
+○        Memerlukan pemahaman yang baik tentang konsep dasar seperti repository, commit, branching, dan merging.
+
+○        Sulit digunakan untuk pengelolaan file biner atau non-teks, seperti gambar atau video.
+
+Platform git yaitu ada GITLAB dan GITHUB.
